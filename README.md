@@ -83,6 +83,6 @@ wtc-java-prep/
 └── README.md (you r here)
 ```
 
-Put your `.java` solution files next to the exercises or in a `src/` folder. Commit after each exercise.
+Put your `.java` solution files in the solutions next to the exercises folder. Commit after each exercise. Working on tests
 
 ---
