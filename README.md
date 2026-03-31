@@ -40,7 +40,7 @@ Fork the repo to get started
 - [ ] Exercise 5.1 — Vehicle Fleet
 - [ ] Exercise 5.2 — Game Characters (RPG)
 
-### Section 6 — Interfaces
+### Section 6 — Interfaces (not sure if they'll come)
 - [ ] Exercise 6.1 — Printable and Saveable
 - [ ] Exercise 6.2 — Smart Home Devices
 
