@@ -1,4 +1,4 @@
-# 05 -- Interfaces (again i'm not sure if these will show up, they probably wont so u can skip them but they're good to know)
+# 05 -- Interfaces (again i'm not sure if these will show up, they probably won't so u can skip them but they're good to know)
 
 ## The core idea
 
