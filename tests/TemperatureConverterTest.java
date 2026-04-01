@@ -1,4 +1,4 @@
-import ex01_syntax.TemperatureConverter;
+package solutions.ex01_syntax;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 
